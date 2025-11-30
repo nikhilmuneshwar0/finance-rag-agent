@@ -1,4 +1,4 @@
-# finance-rag-agent# Financial Regulation RAG Agent with Tool Calling
+finance-rag-agent Financial Regulation RAG Agent with Tool Calling
 
 A production-ready retrieval-augmented generation system built with:
 - AWS Bedrock (Claude 3.5 Sonnet)
